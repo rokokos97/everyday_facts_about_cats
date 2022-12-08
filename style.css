@@ -50,3 +50,7 @@ html {
     display: flex;
     margin: 0 auto;
 }
+.btn:hover{
+    border: greenyellow solid 1px;
+    color: greenyellow;
+}
